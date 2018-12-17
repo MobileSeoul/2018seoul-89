@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#3a1694</item>
+        <item name="colorPrimaryDark">#834cc2</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- <item name="android:statusBarColor">#834cc2</item> -->
+    </style>
+    // 색상 : #3a1694 (보라) , #834cc2 (연보라) , #b267bf (분홍) , #e8bac9 (연분홍)
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

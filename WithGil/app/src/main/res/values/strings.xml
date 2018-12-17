@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WithGil</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="rationale_title">Permission required</string>
+    <string name="rationale_message">we need permission for <b>sending SMS</b> and find your <b>location</b></string>
+    <string name="title_activity_help">HelpActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_app_info">AppInfoActivity</string>
+</resources>

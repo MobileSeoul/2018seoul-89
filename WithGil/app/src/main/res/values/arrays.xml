@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="district">
+        <item >마포</item>
+        <item >서대문</item>
+        <item >은평</item>
+        <item >강서</item>
+        <item >중부</item>
+        <item >혜화</item>
+        <item >용산</item>
+    </string-array>
+    <string-array name="region">
+        <item >-</item>
+    </string-array>
+</resources>
